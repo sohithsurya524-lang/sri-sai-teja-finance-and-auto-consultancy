@@ -1,6 +1,0 @@
-{
-  "name": "Sri Sai Teja Finance",
-  "description": "Two-wheeler and auto consultancy finance app featuring ride exploration, interactive EMI calculator, multi-step loan application, and instant approvals.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
